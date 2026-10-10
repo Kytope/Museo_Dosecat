@@ -1,0 +1,1981 @@
+{
+	"anios": [
+		{
+			"carpeta": "2024",
+			"dibujos": [
+				{
+					"archivo": "2024/123qweasd.jpg",
+					"autor": "123qweasd",
+					"h": 716.0,
+					"mini": "_mini/2024/123qweasd.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/123qweasd.jpg.webp",
+					"w": 1022.0
+				},
+				{
+					"archivo": "2024/AbigailL.jpg",
+					"autor": "AbigailL",
+					"h": 4080.0,
+					"mini": "_mini/2024/AbigailL.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/AbigailL.jpg.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/AleO.jpg",
+					"autor": "AleO",
+					"h": 7016.0,
+					"mini": "_mini/2024/AleO.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/AleO.jpg.webp",
+					"w": 4961.0
+				},
+				{
+					"archivo": "2024/AlexM.jpg",
+					"autor": "AlexM",
+					"h": 4200.0,
+					"mini": "_mini/2024/AlexM.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/AlexM.jpg.webp",
+					"w": 4800.0
+				},
+				{
+					"archivo": "2024/AndresC.png",
+					"autor": "AndresC",
+					"h": 5294.0,
+					"mini": "_mini/2024/AndresC.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/AndresC.png.webp",
+					"w": 3578.0
+				},
+				{
+					"archivo": "2024/AngelaEsp.jpeg",
+					"autor": "AngelaEsp",
+					"h": 2905.0,
+					"mini": "_mini/2024/AngelaEsp.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/AngelaEsp.jpeg.webp",
+					"w": 2847.0
+				},
+				{
+					"archivo": "2024/AngelinaC.png",
+					"autor": "AngelinaC",
+					"h": 1000.0,
+					"mini": "_mini/2024/AngelinaC.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/AngelinaC.png.webp",
+					"w": 1135.0
+				},
+				{
+					"archivo": "2024/Antonio.png",
+					"autor": "Antonio",
+					"h": 1443.0,
+					"mini": "_mini/2024/Antonio.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Antonio.png.webp",
+					"w": 1900.0
+				},
+				{
+					"archivo": "2024/ArielC.jpg",
+					"autor": "ArielC",
+					"h": 4096.0,
+					"mini": "_mini/2024/ArielC.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ArielC.jpg.webp",
+					"w": 4096.0
+				},
+				{
+					"archivo": "2024/BayronP.png",
+					"autor": "BayronP",
+					"h": 1470.0,
+					"mini": "_mini/2024/BayronP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/BayronP.png.webp",
+					"w": 1122.0
+				},
+				{
+					"archivo": "2024/BeMiXz.jpg",
+					"autor": "BeMiXz",
+					"h": 6936.0,
+					"mini": "_mini/2024/BeMiXz.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/BeMiXz.jpg.webp",
+					"w": 9248.0
+				},
+				{
+					"archivo": "2024/BenjaminP.jpg",
+					"autor": "BenjaminP",
+					"h": 1968.0,
+					"mini": "_mini/2024/BenjaminP.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/BenjaminP.jpg.webp",
+					"w": 4160.0
+				},
+				{
+					"archivo": "2024/Bmy.jpg",
+					"autor": "Bmy",
+					"h": 2700.0,
+					"mini": "_mini/2024/Bmy.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Bmy.jpg.webp",
+					"w": 2160.0
+				},
+				{
+					"archivo": "2024/CamiliaA.png",
+					"autor": "CamiliaA",
+					"h": 2160.0,
+					"mini": "_mini/2024/CamiliaA.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/CamiliaA.png.webp",
+					"w": 1620.0
+				},
+				{
+					"archivo": "2024/CarlosA.jpg",
+					"autor": "CarlosA",
+					"h": 555.0,
+					"mini": "_mini/2024/CarlosA.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/CarlosA.jpg.webp",
+					"w": 250.0
+				},
+				{
+					"archivo": "2024/ChristianS.png",
+					"autor": "ChristianS",
+					"h": 3508.0,
+					"mini": "_mini/2024/ChristianS.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ChristianS.png.webp",
+					"w": 2480.0
+				},
+				{
+					"archivo": "2024/Cinnaki.jpg",
+					"autor": "Cinnaki",
+					"h": 3500.0,
+					"mini": "_mini/2024/Cinnaki.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Cinnaki.jpg.webp",
+					"w": 3300.0
+				},
+				{
+					"archivo": "2024/ColorBlue.png",
+					"autor": "ColorBlue",
+					"h": 2023.0,
+					"mini": "_mini/2024/ColorBlue.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ColorBlue.png.webp",
+					"w": 1948.0
+				},
+				{
+					"archivo": "2024/ConstanzaG.jpg",
+					"autor": "ConstanzaG",
+					"h": 3024.0,
+					"mini": "_mini/2024/ConstanzaG.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ConstanzaG.jpg.webp",
+					"w": 4032.0
+				},
+				{
+					"archivo": "2024/ConstanzaH.jpg",
+					"autor": "ConstanzaH",
+					"h": 3522.0,
+					"mini": "_mini/2024/ConstanzaH.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ConstanzaH.jpg.webp",
+					"w": 2189.0
+				},
+				{
+					"archivo": "2024/CristianWerth.jpg",
+					"autor": "CristianWerth",
+					"h": 3508.0,
+					"mini": "_mini/2024/CristianWerth.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/CristianWerth.jpg.webp",
+					"w": 2480.0
+				},
+				{
+					"archivo": "2024/CristobalN.png",
+					"autor": "CristobalN",
+					"h": 3643.0,
+					"mini": "_mini/2024/CristobalN.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/CristobalN.png.webp",
+					"w": 8085.0
+				},
+				{
+					"archivo": "2024/Daaanink.png",
+					"autor": "Daaanink",
+					"h": 2000.0,
+					"mini": "_mini/2024/Daaanink.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Daaanink.png.webp",
+					"w": 2000.0
+				},
+				{
+					"archivo": "2024/Dakota.png",
+					"autor": "Dakota",
+					"h": 2000.0,
+					"mini": "_mini/2024/Dakota.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Dakota.png.webp",
+					"w": 2000.0
+				},
+				{
+					"archivo": "2024/DanielP.jpg",
+					"autor": "DanielP",
+					"h": 1280.0,
+					"mini": "_mini/2024/DanielP.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/DanielP.jpg.webp",
+					"w": 957.0
+				},
+				{
+					"archivo": "2024/DanielS.png",
+					"autor": "DanielS",
+					"h": 720.0,
+					"mini": "_mini/2024/DanielS.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/DanielS.png.webp",
+					"w": 1281.0
+				},
+				{
+					"archivo": "2024/Danini.jpg",
+					"autor": "Danini",
+					"h": 1157.0,
+					"mini": "_mini/2024/Danini.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Danini.jpg.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2024/DanteB.jpg",
+					"autor": "DanteB",
+					"h": 6889.0,
+					"mini": "_mini/2024/DanteB.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/DanteB.jpg.webp",
+					"w": 6889.0
+				},
+				{
+					"archivo": "2024/DiegoT.jpg",
+					"autor": "DiegoT",
+					"h": 3000.0,
+					"mini": "_mini/2024/DiegoT.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/DiegoT.jpg.webp",
+					"w": 4000.0
+				},
+				{
+					"archivo": "2024/DoseCatJotaroVersionbyDomi.jpg",
+					"autor": "DoseCatJotaroVersionbyDomi",
+					"h": 1813.0,
+					"mini": "_mini/2024/DoseCatJotaroVersionbyDomi.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/DoseCatJotaroVersionbyDomi.jpg.webp",
+					"w": 1833.0
+				},
+				{
+					"archivo": "2024/EdoB.jpg",
+					"autor": "EdoB",
+					"h": 900.0,
+					"mini": "_mini/2024/EdoB.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/EdoB.jpg.webp",
+					"w": 900.0
+				},
+				{
+					"archivo": "2024/ElHgtygbfgb.jpg",
+					"autor": "ElHgtygbfgb",
+					"h": 2700.0,
+					"mini": "_mini/2024/ElHgtygbfgb.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ElHgtygbfgb.jpg.webp",
+					"w": 2060.0
+				},
+				{
+					"archivo": "2024/EliasOlivares.png",
+					"autor": "EliasOlivares",
+					"h": 1920.0,
+					"mini": "_mini/2024/EliasOlivares.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/EliasOlivares.png.webp",
+					"w": 1280.0
+				},
+				{
+					"archivo": "2024/EliasS.jpg",
+					"autor": "EliasS",
+					"h": 3000.0,
+					"mini": "_mini/2024/EliasS.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/EliasS.jpg.webp",
+					"w": 3000.0
+				},
+				{
+					"archivo": "2024/EmilyG.jpg",
+					"autor": "EmilyG",
+					"h": 1384.0,
+					"mini": "_mini/2024/EmilyG.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/EmilyG.jpg.webp",
+					"w": 1600.0
+				},
+				{
+					"archivo": "2024/ErosM.png",
+					"autor": "ErosM",
+					"h": 3964.0,
+					"mini": "_mini/2024/ErosM.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ErosM.png.webp",
+					"w": 2674.0
+				},
+				{
+					"archivo": "2024/F6ckingsick.jpg",
+					"autor": "F6ckingsick",
+					"h": 2160.0,
+					"mini": "_mini/2024/F6ckingsick.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/F6ckingsick.jpg.webp",
+					"w": 1620.0
+				},
+				{
+					"archivo": "2024/FelipeP.png",
+					"autor": "FelipeP",
+					"h": 3000.0,
+					"mini": "_mini/2024/FelipeP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FelipeP.png.webp",
+					"w": 2000.0
+				},
+				{
+					"archivo": "2024/FernandaA.png",
+					"autor": "FernandaA",
+					"h": 2142.0,
+					"mini": "_mini/2024/FernandaA.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FernandaA.png.webp",
+					"w": 1667.0
+				},
+				{
+					"archivo": "2024/FernandaP.png",
+					"autor": "FernandaP",
+					"h": 752.0,
+					"mini": "_mini/2024/FernandaP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FernandaP.png.webp",
+					"w": 1000.0
+				},
+				{
+					"archivo": "2024/FernandoE.jpg",
+					"autor": "FernandoE",
+					"h": 2439.0,
+					"mini": "_mini/2024/FernandoE.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FernandoE.jpg.webp",
+					"w": 3000.0
+				},
+				{
+					"archivo": "2024/FernandoT.jpg",
+					"autor": "FernandoT",
+					"h": 4608.0,
+					"mini": "_mini/2024/FernandoT.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FernandoT.jpg.webp",
+					"w": 3456.0
+				},
+				{
+					"archivo": "2024/Flypiz.jpg",
+					"autor": "Flypiz",
+					"h": 2305.0,
+					"mini": "_mini/2024/Flypiz.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Flypiz.jpg.webp",
+					"w": 2304.0
+				},
+				{
+					"archivo": "2024/FrabianRyo.png",
+					"autor": "FrabianRyo",
+					"h": 2160.0,
+					"mini": "_mini/2024/FrabianRyo.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FrabianRyo.png.webp",
+					"w": 3840.0
+				},
+				{
+					"archivo": "2024/FranciscaP.png",
+					"autor": "FranciscaP",
+					"h": 1080.0,
+					"mini": "_mini/2024/FranciscaP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FranciscaP.png.webp",
+					"w": 810.0
+				},
+				{
+					"archivo": "2024/FranciscoG.jpg",
+					"autor": "FranciscoG",
+					"h": 2480.0,
+					"mini": "_mini/2024/FranciscoG.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/FranciscoG.jpg.webp",
+					"w": 3508.0
+				},
+				{
+					"archivo": "2024/GabrielA.png",
+					"autor": "GabrielA",
+					"h": 2902.0,
+					"mini": "_mini/2024/GabrielA.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/GabrielA.png.webp",
+					"w": 4093.0
+				},
+				{
+					"archivo": "2024/Gabyby.jpg",
+					"autor": "Gabyby",
+					"h": 3000.0,
+					"mini": "_mini/2024/Gabyby.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Gabyby.jpg.webp",
+					"w": 3500.0
+				},
+				{
+					"archivo": "2024/GlaszArt.jpeg",
+					"autor": "GlaszArt",
+					"h": 1599.0,
+					"mini": "_mini/2024/GlaszArt.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/GlaszArt.jpeg.webp",
+					"w": 899.0
+				},
+				{
+					"archivo": "2024/GustavoO.png",
+					"autor": "GustavoO",
+					"h": 1440.0,
+					"mini": "_mini/2024/GustavoO.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/GustavoO.png.webp",
+					"w": 2560.0
+				},
+				{
+					"archivo": "2024/IgnaciaS.jpg",
+					"autor": "IgnaciaS",
+					"h": 4000.0,
+					"mini": "_mini/2024/IgnaciaS.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/IgnaciaS.jpg.webp",
+					"w": 4500.0
+				},
+				{
+					"archivo": "2024/IsaB.jpg",
+					"autor": "IsaB",
+					"h": 3057.0,
+					"mini": "_mini/2024/IsaB.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/IsaB.jpg.webp",
+					"w": 1836.0
+				},
+				{
+					"archivo": "2024/IsidoraP.jpg",
+					"autor": "IsidoraP",
+					"h": 3000.0,
+					"mini": "_mini/2024/IsidoraP.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/IsidoraP.jpg.webp",
+					"w": 4000.0
+				},
+				{
+					"archivo": "2024/JavieraG.jpeg",
+					"autor": "JavieraG",
+					"h": 2160.0,
+					"mini": "_mini/2024/JavieraG.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JavieraG.jpeg.webp",
+					"w": 1620.0
+				},
+				{
+					"archivo": "2024/JavierM.jpg",
+					"autor": "JavierM",
+					"h": 4093.0,
+					"mini": "_mini/2024/JavierM.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JavierM.jpg.webp",
+					"w": 2894.0
+				},
+				{
+					"archivo": "2024/JavohP.png",
+					"autor": "JavohP",
+					"h": 3072.0,
+					"mini": "_mini/2024/JavohP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JavohP.png.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/Jiyi.jpg",
+					"autor": "Jiyi",
+					"h": 2852.0,
+					"mini": "_mini/2024/Jiyi.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Jiyi.jpg.webp",
+					"w": 2886.0
+				},
+				{
+					"archivo": "2024/JoaquinMillar.png",
+					"autor": "JoaquinMillar",
+					"h": 1600.0,
+					"mini": "_mini/2024/JoaquinMillar.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JoaquinMillar.png.webp",
+					"w": 1200.0
+				},
+				{
+					"archivo": "2024/JohnA.jpg",
+					"autor": "JohnA",
+					"h": 4000.0,
+					"mini": "_mini/2024/JohnA.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JohnA.jpg.webp",
+					"w": 3000.0
+				},
+				{
+					"archivo": "2024/JoseP.png",
+					"autor": "JoseP",
+					"h": 3264.0,
+					"mini": "_mini/2024/JoseP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JoseP.png.webp",
+					"w": 2200.0
+				},
+				{
+					"archivo": "2024/JulioIsler.jpg",
+					"autor": "JulioIsler",
+					"h": 5626.0,
+					"mini": "_mini/2024/JulioIsler.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/JulioIsler.jpg.webp",
+					"w": 4500.0
+				},
+				{
+					"archivo": "2024/KannyChan.png",
+					"autor": "KannyChan",
+					"h": 1494.0,
+					"mini": "_mini/2024/KannyChan.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/KannyChan.png.webp",
+					"w": 1440.0
+				},
+				{
+					"archivo": "2024/KarinaR.png",
+					"autor": "KarinaR",
+					"h": 3147.0,
+					"mini": "_mini/2024/KarinaR.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/KarinaR.png.webp",
+					"w": 4636.0
+				},
+				{
+					"archivo": "2024/KarminaD.jpg",
+					"autor": "KarminaD",
+					"h": 1350.0,
+					"mini": "_mini/2024/KarminaD.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/KarminaD.jpg.webp",
+					"w": 1350.0
+				},
+				{
+					"archivo": "2024/KatherineA.jpeg",
+					"autor": "KatherineA",
+					"h": 399.0,
+					"mini": "_mini/2024/KatherineA.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/KatherineA.jpeg.webp",
+					"w": 443.0
+				},
+				{
+					"archivo": "2024/KevinR.jpg",
+					"autor": "KevinR",
+					"h": 4608.0,
+					"mini": "_mini/2024/KevinR.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/KevinR.jpg.webp",
+					"w": 3456.0
+				},
+				{
+					"archivo": "2024/KirbyDono77.png",
+					"autor": "KirbyDono77",
+					"h": 601.0,
+					"mini": "_mini/2024/KirbyDono77.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/KirbyDono77.png.webp",
+					"w": 1220.0
+				},
+				{
+					"archivo": "2024/Legendarien21.png",
+					"autor": "Legendarien21",
+					"h": 4249.0,
+					"mini": "_mini/2024/Legendarien21.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Legendarien21.png.webp",
+					"w": 3000.0
+				},
+				{
+					"archivo": "2024/LionS.jpg",
+					"autor": "LionS",
+					"h": 4080.0,
+					"mini": "_mini/2024/LionS.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/LionS.jpg.webp",
+					"w": 2288.0
+				},
+				{
+					"archivo": "2024/LockDie.jpeg",
+					"autor": "LockDie",
+					"h": 8268.0,
+					"mini": "_mini/2024/LockDie.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/LockDie.jpeg.webp",
+					"w": 6496.0
+				},
+				{
+					"archivo": "2024/luisE.png",
+					"autor": "luisE",
+					"h": 2000.0,
+					"mini": "_mini/2024/luisE.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/luisE.png.webp",
+					"w": 2000.0
+				},
+				{
+					"archivo": "2024/LuisG.jpg",
+					"autor": "LuisG",
+					"h": 2367.0,
+					"mini": "_mini/2024/LuisG.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/LuisG.jpg.webp",
+					"w": 1598.0
+				},
+				{
+					"archivo": "2024/LuluZ.png",
+					"autor": "LuluZ",
+					"h": 899.0,
+					"mini": "_mini/2024/LuluZ.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/LuluZ.png.webp",
+					"w": 898.0
+				},
+				{
+					"archivo": "2024/MaflaArt.jpg",
+					"autor": "MaflaArt",
+					"h": 4080.0,
+					"mini": "_mini/2024/MaflaArt.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MaflaArt.jpg.webp",
+					"w": 3060.0
+				},
+				{
+					"archivo": "2024/Manzanita.jpg",
+					"autor": "Manzanita",
+					"h": 2604.0,
+					"mini": "_mini/2024/Manzanita.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Manzanita.jpg.webp",
+					"w": 4624.0
+				},
+				{
+					"archivo": "2024/MarcusA.png",
+					"autor": "MarcusA",
+					"h": 2990.0,
+					"mini": "_mini/2024/MarcusA.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MarcusA.png.webp",
+					"w": 2123.0
+				},
+				{
+					"archivo": "2024/MarielU.jpg",
+					"autor": "MarielU",
+					"h": 3414.0,
+					"mini": "_mini/2024/MarielU.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MarielU.jpg.webp",
+					"w": 2711.0
+				},
+				{
+					"archivo": "2024/MartinI.jpg",
+					"autor": "MartinI",
+					"h": 3000.0,
+					"mini": "_mini/2024/MartinI.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MartinI.jpg.webp",
+					"w": 4000.0
+				},
+				{
+					"archivo": "2024/MartinR.png",
+					"autor": "MartinR",
+					"h": 648.0,
+					"mini": "_mini/2024/MartinR.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MartinR.png.webp",
+					"w": 1152.0
+				},
+				{
+					"archivo": "2024/MatiasM.png",
+					"autor": "MatiasM",
+					"h": 843.0,
+					"mini": "_mini/2024/MatiasM.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MatiasM.png.webp",
+					"w": 660.0
+				},
+				{
+					"archivo": "2024/MatiasS.jpg",
+					"autor": "MatiasS",
+					"h": 3072.0,
+					"mini": "_mini/2024/MatiasS.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MatiasS.jpg.webp",
+					"w": 4096.0
+				},
+				{
+					"archivo": "2024/matytm.jpg",
+					"autor": "matytm",
+					"h": 333.0,
+					"mini": "_mini/2024/matytm.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/matytm.jpg.webp",
+					"w": 250.0
+				},
+				{
+					"archivo": "2024/MaxiN.png",
+					"autor": "MaxiN",
+					"h": 4096.0,
+					"mini": "_mini/2024/MaxiN.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MaxiN.png.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/MaxP.jpeg",
+					"autor": "MaxP",
+					"h": 1600.0,
+					"mini": "_mini/2024/MaxP.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MaxP.jpeg.webp",
+					"w": 756.0
+				},
+				{
+					"archivo": "2024/MiuwT.png",
+					"autor": "MiuwT",
+					"h": 2048.0,
+					"mini": "_mini/2024/MiuwT.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MiuwT.png.webp",
+					"w": 2048.0
+				},
+				{
+					"archivo": "2024/Mochiirina.png",
+					"autor": "Mochiirina",
+					"h": 1920.0,
+					"mini": "_mini/2024/Mochiirina.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Mochiirina.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2024/Monicae.png",
+					"autor": "Monicae",
+					"h": 626.0,
+					"mini": "_mini/2024/Monicae.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Monicae.png.webp",
+					"w": 631.0
+				},
+				{
+					"archivo": "2024/MoonG.jpeg",
+					"autor": "MoonG",
+					"h": 2670.0,
+					"mini": "_mini/2024/MoonG.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/MoonG.jpeg.webp",
+					"w": 2670.0
+				},
+				{
+					"archivo": "2024/NachoY.jpg",
+					"autor": "NachoY",
+					"h": 3891.0,
+					"mini": "_mini/2024/NachoY.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NachoY.jpg.webp",
+					"w": 2830.0
+				},
+				{
+					"archivo": "2024/NatyP.png",
+					"autor": "NatyP",
+					"h": 3072.0,
+					"mini": "_mini/2024/NatyP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NatyP.png.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/NayaH.jpeg",
+					"autor": "NayaH",
+					"h": 3024.0,
+					"mini": "_mini/2024/NayaH.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NayaH.jpeg.webp",
+					"w": 4032.0
+				},
+				{
+					"archivo": "2024/NelsonR.JPG",
+					"autor": "NelsonR",
+					"h": 4000.0,
+					"mini": "_mini/2024/NelsonR.JPG.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NelsonR.JPG.webp",
+					"w": 6000.0
+				},
+				{
+					"archivo": "2024/NeoAbarca.jpg",
+					"autor": "NeoAbarca",
+					"h": 1280.0,
+					"mini": "_mini/2024/NeoAbarca.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NeoAbarca.jpg.webp",
+					"w": 1280.0
+				},
+				{
+					"archivo": "2024/NicolasJ.jpg",
+					"autor": "NicolasJ",
+					"h": 3184.0,
+					"mini": "_mini/2024/NicolasJ.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NicolasJ.jpg.webp",
+					"w": 2436.0
+				},
+				{
+					"archivo": "2024/NicolasNN.jpg",
+					"autor": "NicolasNN",
+					"h": 1968.0,
+					"mini": "_mini/2024/NicolasNN.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NicolasNN.jpg.webp",
+					"w": 4160.0
+				},
+				{
+					"archivo": "2024/NicoleD.jpg",
+					"autor": "NicoleD",
+					"h": 2469.0,
+					"mini": "_mini/2024/NicoleD.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NicoleD.jpg.webp",
+					"w": 1387.0
+				},
+				{
+					"archivo": "2024/NoahP.png",
+					"autor": "NoahP",
+					"h": 900.0,
+					"mini": "_mini/2024/NoahP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/NoahP.png.webp",
+					"w": 634.0
+				},
+				{
+					"archivo": "2024/OscarP.jpg",
+					"autor": "OscarP",
+					"h": 2000.0,
+					"mini": "_mini/2024/OscarP.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/OscarP.jpg.webp",
+					"w": 1409.0
+				},
+				{
+					"archivo": "2024/Porochaa.jpg",
+					"autor": "Porochaa",
+					"h": 3000.0,
+					"mini": "_mini/2024/Porochaa.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Porochaa.jpg.webp",
+					"w": 4000.0
+				},
+				{
+					"archivo": "2024/pqbd.jpg",
+					"autor": "pqbd",
+					"h": 1600.0,
+					"mini": "_mini/2024/pqbd.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/pqbd.jpg.webp",
+					"w": 1200.0
+				},
+				{
+					"archivo": "2024/RaulA.jpg",
+					"autor": "RaulA",
+					"h": 1080.0,
+					"mini": "_mini/2024/RaulA.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/RaulA.jpg.webp",
+					"w": 1556.0
+				},
+				{
+					"archivo": "2024/RenaP.png",
+					"autor": "RenaP",
+					"h": 1280.0,
+					"mini": "_mini/2024/RenaP.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/RenaP.png.webp",
+					"w": 1280.0
+				},
+				{
+					"archivo": "2024/RenatoO.png",
+					"autor": "RenatoO",
+					"h": 1346.0,
+					"mini": "_mini/2024/RenatoO.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/RenatoO.png.webp",
+					"w": 1600.0
+				},
+				{
+					"archivo": "2024/Rioto.jpg",
+					"autor": "Rioto",
+					"h": 3492.0,
+					"mini": "_mini/2024/Rioto.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Rioto.jpg.webp",
+					"w": 4656.0
+				},
+				{
+					"archivo": "2024/RodrigoG.jpg",
+					"autor": "RodrigoG",
+					"h": 1350.0,
+					"mini": "_mini/2024/RodrigoG.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/RodrigoG.jpg.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2024/SantiagoA.jpeg",
+					"autor": "SantiagoA",
+					"h": 3024.0,
+					"mini": "_mini/2024/SantiagoA.jpeg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/SantiagoA.jpeg.webp",
+					"w": 4032.0
+				},
+				{
+					"archivo": "2024/SebaS.jpg",
+					"autor": "SebaS",
+					"h": 2542.0,
+					"mini": "_mini/2024/SebaS.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/SebaS.jpg.webp",
+					"w": 3851.0
+				},
+				{
+					"archivo": "2024/SebastianG.jpg",
+					"autor": "SebastianG",
+					"h": 3024.0,
+					"mini": "_mini/2024/SebastianG.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/SebastianG.jpg.webp",
+					"w": 4032.0
+				},
+				{
+					"archivo": "2024/SofiaG.png",
+					"autor": "SofiaG",
+					"h": 2304.0,
+					"mini": "_mini/2024/SofiaG.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/SofiaG.png.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/SrPaja.png",
+					"autor": "SrPaja",
+					"h": 1000.0,
+					"mini": "_mini/2024/SrPaja.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/SrPaja.png.webp",
+					"w": 997.0
+				},
+				{
+					"archivo": "2024/Sushipleto.png",
+					"autor": "Sushipleto",
+					"h": 1920.0,
+					"mini": "_mini/2024/Sushipleto.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Sushipleto.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2024/Suuuwu.jpg",
+					"autor": "Suuuwu",
+					"h": 8160.0,
+					"mini": "_mini/2024/Suuuwu.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Suuuwu.jpg.webp",
+					"w": 6120.0
+				},
+				{
+					"archivo": "2024/TheBenDraw.png",
+					"autor": "TheBenDraw",
+					"h": 1500.0,
+					"mini": "_mini/2024/TheBenDraw.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/TheBenDraw.png.webp",
+					"w": 1500.0
+				},
+				{
+					"archivo": "2024/TheFoxCreed.jpg",
+					"autor": "TheFoxCreed",
+					"h": 2000.0,
+					"mini": "_mini/2024/TheFoxCreed.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/TheFoxCreed.jpg.webp",
+					"w": 2500.0
+				},
+				{
+					"archivo": "2024/ThiareA.png",
+					"autor": "ThiareA",
+					"h": 1989.0,
+					"mini": "_mini/2024/ThiareA.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ThiareA.png.webp",
+					"w": 1326.0
+				},
+				{
+					"archivo": "2024/ThomasS.jpg",
+					"autor": "ThomasS",
+					"h": 1994.0,
+					"mini": "_mini/2024/ThomasS.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ThomasS.jpg.webp",
+					"w": 1425.0
+				},
+				{
+					"archivo": "2024/Twofriends.png",
+					"autor": "Twofriends",
+					"h": 637.0,
+					"mini": "_mini/2024/Twofriends.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Twofriends.png.webp",
+					"w": 562.0
+				},
+				{
+					"archivo": "2024/UnginGangun.png",
+					"autor": "UnginGangun",
+					"h": 402.0,
+					"mini": "_mini/2024/UnginGangun.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/UnginGangun.png.webp",
+					"w": 402.0
+				},
+				{
+					"archivo": "2024/ValeM.jpg",
+					"autor": "ValeM",
+					"h": 3146.0,
+					"mini": "_mini/2024/ValeM.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ValeM.jpg.webp",
+					"w": 3052.0
+				},
+				{
+					"archivo": "2024/ValentinaC.png",
+					"autor": "ValentinaC",
+					"h": 3072.0,
+					"mini": "_mini/2024/ValentinaC.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ValentinaC.png.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/ValeriaR.jpg",
+					"autor": "ValeriaR",
+					"h": 4608.0,
+					"mini": "_mini/2024/ValeriaR.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ValeriaR.jpg.webp",
+					"w": 3456.0
+				},
+				{
+					"archivo": "2024/Velo_Nocturno.jpg",
+					"autor": "Velo_Nocturno",
+					"h": 8240.0,
+					"mini": "_mini/2024/Velo_Nocturno.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Velo_Nocturno.jpg.webp",
+					"w": 11136.0
+				},
+				{
+					"archivo": "2024/VicenteA.png",
+					"autor": "VicenteA",
+					"h": 2750.0,
+					"mini": "_mini/2024/VicenteA.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/VicenteA.png.webp",
+					"w": 2750.0
+				},
+				{
+					"archivo": "2024/VichoK.jpg",
+					"autor": "VichoK",
+					"h": 4080.0,
+					"mini": "_mini/2024/VichoK.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/VichoK.jpg.webp",
+					"w": 3072.0
+				},
+				{
+					"archivo": "2024/Violent1crow.png",
+					"autor": "Violent1crow",
+					"h": 4096.0,
+					"mini": "_mini/2024/Violent1crow.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Violent1crow.png.webp",
+					"w": 4096.0
+				},
+				{
+					"archivo": "2024/Warisnake.jpg",
+					"autor": "Warisnake",
+					"h": 2976.0,
+					"mini": "_mini/2024/Warisnake.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Warisnake.jpg.webp",
+					"w": 2122.0
+				},
+				{
+					"archivo": "2024/XlilXBABY.png",
+					"autor": "XlilXBABY",
+					"h": 1024.0,
+					"mini": "_mini/2024/XlilXBABY.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/XlilXBABY.png.webp",
+					"w": 736.0
+				},
+				{
+					"archivo": "2024/YercoE.jpg",
+					"autor": "YercoE",
+					"h": 6139.0,
+					"mini": "_mini/2024/YercoE.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/YercoE.jpg.webp",
+					"w": 3472.0
+				},
+				{
+					"archivo": "2024/YeYard.png",
+					"autor": "YeYard",
+					"h": 2480.0,
+					"mini": "_mini/2024/YeYard.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/YeYard.png.webp",
+					"w": 2480.0
+				},
+				{
+					"archivo": "2024/Yorha.png",
+					"autor": "Yorha",
+					"h": 3508.0,
+					"mini": "_mini/2024/Yorha.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/Yorha.png.webp",
+					"w": 2480.0
+				},
+				{
+					"archivo": "2024/YulianaR.png",
+					"autor": "YulianaR",
+					"h": 2000.0,
+					"mini": "_mini/2024/YulianaR.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/YulianaR.png.webp",
+					"w": 1400.0
+				},
+				{
+					"archivo": "2024/ZenhRev0ic.jpg",
+					"autor": "ZenhRev0ic",
+					"h": 6000.0,
+					"mini": "_mini/2024/ZenhRev0ic.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ZenhRev0ic.jpg.webp",
+					"w": 8000.0
+				},
+				{
+					"archivo": "2024/ZoKoez.jpg",
+					"autor": "ZoKoez",
+					"h": 1920.0,
+					"mini": "_mini/2024/ZoKoez.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2024/ZoKoez.jpg.webp",
+					"w": 1597.0
+				}
+			],
+			"ganadores": [
+				{
+					"archivo": "2024/ganadores/AleO.jpg",
+					"autor": "AleO",
+					"h": 7016.0,
+					"mini": "_mini/2024/ganadores/AleO.jpg.webp",
+					"puesto": 1.0,
+					"titulo": "",
+					"vista": "_vista/2024/ganadores/AleO.jpg.webp",
+					"w": 4961.0
+				},
+				{
+					"archivo": "2024/ganadores/AndresC.png",
+					"autor": "AndresC",
+					"h": 5294.0,
+					"mini": "_mini/2024/ganadores/AndresC.png.webp",
+					"puesto": 2.0,
+					"titulo": "",
+					"vista": "_vista/2024/ganadores/AndresC.png.webp",
+					"w": 3578.0
+				},
+				{
+					"archivo": "2024/ganadores/JavierM.jpg",
+					"autor": "JavierM",
+					"h": 4093.0,
+					"mini": "_mini/2024/ganadores/JavierM.jpg.webp",
+					"puesto": 3.0,
+					"titulo": "",
+					"vista": "_vista/2024/ganadores/JavierM.jpg.webp",
+					"w": 2894.0
+				}
+			],
+			"nombre": "2024"
+		},
+		{
+			"carpeta": "2025",
+			"dibujos": [
+				{
+					"archivo": "2025/@aerialls_.jpg",
+					"autor": "@aerialls_",
+					"h": 1920.0,
+					"mini": "_mini/2025/@aerialls_.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@aerialls_.jpg.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2025/@alvaro_christian17.jpg",
+					"autor": "@alvaro_christian17",
+					"h": 1920.0,
+					"mini": "_mini/2025/@alvaro_christian17.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@alvaro_christian17.jpg.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2025/@Anabel.91.cor.png.jpg",
+					"autor": "@Anabel.91.cor",
+					"h": 4000.0,
+					"mini": "_mini/2025/@Anabel.91.cor.png.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@Anabel.91.cor.png.jpg.webp",
+					"w": 3000.0
+				},
+				{
+					"archivo": "2025/@anniwtf.lol.png",
+					"autor": "@anniwtf.lol",
+					"h": 1600.0,
+					"mini": "_mini/2025/@anniwtf.lol.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@anniwtf.lol.png.webp",
+					"w": 1388.0
+				},
+				{
+					"archivo": "2025/@ariki_out.jpg",
+					"autor": "@ariki_out",
+					"h": 1350.0,
+					"mini": "_mini/2025/@ariki_out.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@ariki_out.jpg.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2025/@b.hgtygbfgb.jpg",
+					"autor": "@b.hgtygbfgb",
+					"h": 2715.0,
+					"mini": "_mini/2025/@b.hgtygbfgb.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@b.hgtygbfgb.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@babydoll_g18.png",
+					"autor": "@babydoll_g18",
+					"h": 960.0,
+					"mini": "_mini/2025/@babydoll_g18.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@babydoll_g18.png.webp",
+					"w": 678.0
+				},
+				{
+					"archivo": "2025/@bayron_ssj.jpg",
+					"autor": "@bayron_ssj",
+					"h": 1280.0,
+					"mini": "_mini/2025/@bayron_ssj.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@bayron_ssj.jpg.webp",
+					"w": 963.0
+				},
+				{
+					"archivo": "2025/@black._heartx.jpg",
+					"autor": "@black._heartx",
+					"h": 1920.0,
+					"mini": "_mini/2025/@black._heartx.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@black._heartx.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@c.s_nk.jpg",
+					"autor": "@c.s_nk",
+					"h": 6000.0,
+					"mini": "_mini/2025/@c.s_nk.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@c.s_nk.jpg.webp",
+					"w": 8000.0
+				},
+				{
+					"archivo": "2025/@cabritas7.jpg",
+					"autor": "@cabritas7",
+					"h": 1920.0,
+					"mini": "_mini/2025/@cabritas7.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@cabritas7.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@ch4nn1ee.jpg",
+					"autor": "@ch4nn1ee",
+					"h": 2560.0,
+					"mini": "_mini/2025/@ch4nn1ee.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@ch4nn1ee.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@chilled.pickles.png",
+					"autor": "@chilled.pickles",
+					"h": 1920.0,
+					"mini": "_mini/2025/@chilled.pickles.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@chilled.pickles.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@Dmarcosss.png",
+					"autor": "@Dmarcosss",
+					"h": 7680.0,
+					"mini": "_mini/2025/@Dmarcosss.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@Dmarcosss.png.webp",
+					"w": 4327.0
+				},
+				{
+					"archivo": "2025/@Dufi.one.png",
+					"autor": "@Dufi.one",
+					"h": 4000.0,
+					"mini": "_mini/2025/@Dufi.one.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@Dufi.one.png.webp",
+					"w": 4000.0
+				},
+				{
+					"archivo": "2025/@elmaldisiones.png",
+					"autor": "@elmaldisiones",
+					"h": 1357.0,
+					"mini": "_mini/2025/@elmaldisiones.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@elmaldisiones.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@fabiannicolas07.jpg",
+					"autor": "@fabiannicolas07",
+					"h": 1528.0,
+					"mini": "_mini/2025/@fabiannicolas07.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@fabiannicolas07.jpg.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2025/@fhido.dos.jpg",
+					"autor": "@fhido.dos",
+					"h": 1080.0,
+					"mini": "_mini/2025/@fhido.dos.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@fhido.dos.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@fokin_tako.png",
+					"autor": "@fokin_tako",
+					"h": 1920.0,
+					"mini": "_mini/2025/@fokin_tako.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@fokin_tako.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@franco.pizzeghello.jpg",
+					"autor": "@franco.pizzeghello",
+					"h": 3166.0,
+					"mini": "_mini/2025/@franco.pizzeghello.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@franco.pizzeghello.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@ginko_himawari .jpg",
+					"autor": "@ginko_himawari ",
+					"h": 2000.0,
+					"mini": "_mini/2025/@ginko_himawari .jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@ginko_himawari .jpg.webp",
+					"w": 2220.0
+				},
+				{
+					"archivo": "2025/@HYBRID0LL.png",
+					"autor": "@HYBRID0LL",
+					"h": 1920.0,
+					"mini": "_mini/2025/@HYBRID0LL.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@HYBRID0LL.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@jbringsjoy_.png",
+					"autor": "@jbringsjoy_",
+					"h": 2560.0,
+					"mini": "_mini/2025/@jbringsjoy_.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@jbringsjoy_.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@jiorshh.png",
+					"autor": "@jiorshh",
+					"h": 2622.0,
+					"mini": "_mini/2025/@jiorshh.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@jiorshh.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@jumy919.jpg",
+					"autor": "@jumy919",
+					"h": 7016.0,
+					"mini": "_mini/2025/@jumy919.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@jumy919.jpg.webp",
+					"w": 4961.0
+				},
+				{
+					"archivo": "2025/@just.alone.and.lonely.png",
+					"autor": "@just.alone.and.lonely",
+					"h": 1357.0,
+					"mini": "_mini/2025/@just.alone.and.lonely.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@just.alone.and.lonely.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@kimoi.embroidery_.jpg",
+					"autor": "@kimoi.embroidery_",
+					"h": 7672.0,
+					"mini": "_mini/2025/@kimoi.embroidery_.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@kimoi.embroidery_.jpg.webp",
+					"w": 5748.0
+				},
+				{
+					"archivo": "2025/@lxxout_ .png",
+					"autor": "@lxxout_",
+					"h": 9727.0,
+					"mini": "_mini/2025/@lxxout_ .png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@lxxout_ .png.webp",
+					"w": 13215.0
+				},
+				{
+					"archivo": "2025/@maytel.y.png",
+					"autor": "@maytel.y",
+					"h": 2048.0,
+					"mini": "_mini/2025/@maytel.y.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@maytel.y.png.webp",
+					"w": 2048.0
+				},
+				{
+					"archivo": "2025/@mintykabi.png",
+					"autor": "@mintykabi",
+					"h": 2000.0,
+					"mini": "_mini/2025/@mintykabi.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@mintykabi.png.webp",
+					"w": 2000.0
+				},
+				{
+					"archivo": "2025/@mochi_mokazte.png",
+					"autor": "@mochi_mokazte",
+					"h": 1309.0,
+					"mini": "_mini/2025/@mochi_mokazte.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@mochi_mokazte.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@mrmarileitor.png",
+					"autor": "@mrmarileitor",
+					"h": 1920.0,
+					"mini": "_mini/2025/@mrmarileitor.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@mrmarileitor.png.webp",
+					"w": 1440.0
+				},
+				{
+					"archivo": "2025/@Mvcson.jpg",
+					"autor": "@Mvcson",
+					"h": 1920.0,
+					"mini": "_mini/2025/@Mvcson.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@Mvcson.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@pabloetooo.png",
+					"autor": "@pabloetooo",
+					"h": 1414.0,
+					"mini": "_mini/2025/@pabloetooo.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@pabloetooo.png.webp",
+					"w": 1000.0
+				},
+				{
+					"archivo": "2025/@PainterBits.png",
+					"autor": "@PainterBits",
+					"h": 3508.0,
+					"mini": "_mini/2025/@PainterBits.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@PainterBits.png.webp",
+					"w": 4961.0
+				},
+				{
+					"archivo": "2025/@panchochr.jpg",
+					"autor": "@panchochr",
+					"h": 708.0,
+					"mini": "_mini/2025/@panchochr.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@panchochr.jpg.webp",
+					"w": 493.0
+				},
+				{
+					"archivo": "2025/@panci_val.webp",
+					"autor": "@panci_val",
+					"h": 1920.0,
+					"mini": "_mini/2025/@panci_val.webp.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@panci_val.webp.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2025/@prais3u.png",
+					"autor": "@prais3u",
+					"h": 1080.0,
+					"mini": "_mini/2025/@prais3u.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@prais3u.png.webp",
+					"w": 1080.0
+				},
+				{
+					"archivo": "2025/@rodrigoguerrau.png",
+					"autor": "@rodrigoguerrau",
+					"h": 2400.0,
+					"mini": "_mini/2025/@rodrigoguerrau.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@rodrigoguerrau.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@sg.tlo.jpg",
+					"autor": "@sg.tlo",
+					"h": 2107.0,
+					"mini": "_mini/2025/@sg.tlo.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@sg.tlo.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@smo.kingcl.png",
+					"autor": "@smo.kingcl",
+					"h": 9754.0,
+					"mini": "_mini/2025/@smo.kingcl.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@smo.kingcl.png.webp",
+					"w": 9754.0
+				},
+				{
+					"archivo": "2025/@thejumpylight.png",
+					"autor": "@thejumpylight",
+					"h": 3088.0,
+					"mini": "_mini/2025/@thejumpylight.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@thejumpylight.png.webp",
+					"w": 4632.0
+				},
+				{
+					"archivo": "2025/@trip.keyuu.jpg",
+					"autor": "@trip.keyuu",
+					"h": 1080.0,
+					"mini": "_mini/2025/@trip.keyuu.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@trip.keyuu.jpg.webp",
+					"w": 894.0
+				},
+				{
+					"archivo": "2025/@vice.ancoac.__.png",
+					"autor": "@vice.ancoac.__",
+					"h": 4724.0,
+					"mini": "_mini/2025/@vice.ancoac.__.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@vice.ancoac.__.png.webp",
+					"w": 9449.0
+				},
+				{
+					"archivo": "2025/@warisnakectm.jpg",
+					"autor": "@warisnakectm",
+					"h": 9472.0,
+					"mini": "_mini/2025/@warisnakectm.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@warisnakectm.jpg.webp",
+					"w": 6331.0
+				},
+				{
+					"archivo": "2025/@xincriz.jpg",
+					"autor": "@xincriz",
+					"h": 1295.0,
+					"mini": "_mini/2025/@xincriz.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@xincriz.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/@yeraesto.jpg",
+					"autor": "@yeraesto",
+					"h": 2000.0,
+					"mini": "_mini/2025/@yeraesto.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@yeraesto.jpg.webp",
+					"w": 1125.0
+				},
+				{
+					"archivo": "2025/@_.cmct._.jpg",
+					"autor": "@_.cmct._",
+					"h": 1920.0,
+					"mini": "_mini/2025/@_.cmct._.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@_.cmct._.jpg.webp",
+					"w": 1440.0
+				},
+				{
+					"archivo": "2025/@_.josepha._.stupid._.jpg",
+					"autor": "@_.josepha._.stupid._",
+					"h": 841.0,
+					"mini": "_mini/2025/@_.josepha._.stupid._.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@_.josepha._.stupid._.jpg.webp",
+					"w": 594.0
+				},
+				{
+					"archivo": "2025/@_.zomp.png",
+					"autor": "@_.zomp",
+					"h": 1662.0,
+					"mini": "_mini/2025/@_.zomp.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@_.zomp.png.webp",
+					"w": 2207.0
+				},
+				{
+					"archivo": "2025/@_fuy.art_.png",
+					"autor": "@_fuy.art_",
+					"h": 2664.0,
+					"mini": "_mini/2025/@_fuy.art_.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/@_fuy.art_.png.webp",
+					"w": 2140.0
+				},
+				{
+					"archivo": "2025/danny.png",
+					"autor": "danny",
+					"h": 1920.0,
+					"mini": "_mini/2025/danny.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/danny.png.webp",
+					"w": 887.0
+				},
+				{
+					"archivo": "2025/nikofuentes.png",
+					"autor": "nikofuentes",
+					"h": 490.0,
+					"mini": "_mini/2025/nikofuentes.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/nikofuentes.png.webp",
+					"w": 382.0
+				},
+				{
+					"archivo": "2025/pali.wawa.png",
+					"autor": "pali.wawa",
+					"h": 2307.0,
+					"mini": "_mini/2025/pali.wawa.png.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/pali.wawa.png.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/seekerr.jpg",
+					"autor": "seekerr",
+					"h": 2560.0,
+					"mini": "_mini/2025/seekerr.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/seekerr.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/tommystudiante11.jpg",
+					"autor": "tommystudiante11",
+					"h": 2560.0,
+					"mini": "_mini/2025/tommystudiante11.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/tommystudiante11.jpg.webp",
+					"w": 1920.0
+				},
+				{
+					"archivo": "2025/_.sebadeus._.jpg",
+					"autor": "_.sebadeus._",
+					"h": 2398.0,
+					"mini": "_mini/2025/_.sebadeus._.jpg.webp",
+					"puesto": 0.0,
+					"titulo": "",
+					"vista": "_vista/2025/_.sebadeus._.jpg.webp",
+					"w": 1884.0
+				}
+			],
+			"ganadores": [
+				{
+					"archivo": "2025/ganadores/@thejumpylight.png",
+					"autor": "@thejumpylight",
+					"h": 3088.0,
+					"mini": "_mini/2025/ganadores/@thejumpylight.png.webp",
+					"puesto": 1.0,
+					"titulo": "",
+					"vista": "_vista/2025/ganadores/@thejumpylight.png.webp",
+					"w": 4632.0
+				},
+				{
+					"archivo": "2025/ganadores/@Dufi.one.png",
+					"autor": "@Dufi.one",
+					"h": 4000.0,
+					"mini": "_mini/2025/ganadores/@Dufi.one.png.webp",
+					"puesto": 2.0,
+					"titulo": "",
+					"vista": "_vista/2025/ganadores/@Dufi.one.png.webp",
+					"w": 4000.0
+				},
+				{
+					"archivo": "2025/ganadores/@ch4nn1ee.jpg",
+					"autor": "@ch4nn1ee",
+					"h": 2560.0,
+					"mini": "_mini/2025/ganadores/@ch4nn1ee.jpg.webp",
+					"puesto": 3.0,
+					"titulo": "",
+					"vista": "_vista/2025/ganadores/@ch4nn1ee.jpg.webp",
+					"w": 1920.0
+				}
+			],
+			"nombre": "2025"
+		}
+	],
+	"nombre": "MUSEO DOSECAT"
+}
