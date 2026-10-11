@@ -128,7 +128,40 @@ body {
 
 		<script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":13768564,"index.wasm":39513091},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+// Vuelta del inicio de sesión (Discord vía Supabase): la sesión llega en el
+// #fragmento de la URL. Se guarda para el juego; si esta página es la ventana
+// emergente de login, se cierra sin cargar el museo.
+const MUSEO_LOGIN = (function () {
+	const h = location.hash || '';
+	if (!h.includes('access_token=') && !h.includes('error')) {
+		return '';
+	}
+	const p = new URLSearchParams(h.slice(1));
+	const ok = !!p.get('access_token');
+	let popup = window.name === 'museo_login';
+	try {
+		const t = Number(localStorage.getItem('museo_login_pending') || 0);
+		popup = popup || (Date.now() - t < 15 * 60 * 1000);
+		localStorage.removeItem('museo_login_pending');
+		if (ok) {
+			localStorage.setItem('museo_sb', JSON.stringify({
+				access_token: p.get('access_token'),
+				refresh_token: p.get('refresh_token'),
+				expires_at: Number(p.get('expires_at')) || Math.floor(Date.now() / 1000) + 3600,
+			}));
+		}
+	} catch (e) {
+		// sin localStorage no se puede guardar la sesión
+	}
+	history.replaceState(null, '', location.pathname + location.search);
+	if (!popup) {
+		return '';
+	}
+	return ok ? 'Sesión iniciada. Ya puedes cerrar esta ventana.'
+		: 'No se pudo iniciar sesión: ' + (p.get('error_description') || p.get('error') || 'cancelado') + '. Cierra esta ventana e inténtalo otra vez.';
+}());
+
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":13787168,"index.wasm":39513091},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
 
@@ -139,6 +172,14 @@ const engine = new Engine(GODOT_CONFIG);
 
 	let initializing = true;
 	let statusMode = '';
+
+	if (MUSEO_LOGIN) {
+		setStatusNotice(MUSEO_LOGIN);
+		setStatusMode('notice');
+		initializing = false;
+		setTimeout(() => window.close(), 400);
+		return;
+	}
 
 	function setStatusMode(mode) {
 		if (statusMode === mode || !initializing) {
